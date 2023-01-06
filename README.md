@@ -14,7 +14,7 @@ Zufällige Auswahl eines Sentiment für Evaluation
 ### TextBlob.ipnyb
 Ansatz mit TextBlob für Evaluation
 ### SkLearning.ipnyb
-Ansatz mit SkLearning
+Ansätze mit SkLearning für Evaluation
 
 
 ## Imports
