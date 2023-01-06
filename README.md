@@ -18,7 +18,8 @@ Ansätze mit SkLearning für Evaluation
 
 
 ## Imports
-Dies muss für die Ausführung installiert werden: \n
+Dies muss für die Ausführung installiert werden:
+
 pip install textblob, numpy, csv, matplotlib
 
 Dies kann per STRG-C kopiert und dann in die Konsole per Rechtsklick oder in eine Python Datei mit STRG-V eingefügt und ausgeführt werden 
