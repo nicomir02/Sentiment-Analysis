@@ -10,11 +10,13 @@ https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews
 ### SentimentAnalysis1.0.ipnyb
 Mein Ansatz der Sentiment Analysis
 ### Random.ipnyb
-Zufällige Auswahl eines Sentiment für Evaluation
+Zufällige Auswahl, als Schaubeispiel
 ### TextBlob.ipnyb
-Ansatz mit TextBlob für Evaluation
+Ansatz mit TextBlob
 ### SkLearning.ipnyb
-Ansätze mit SkLearning für Evaluation
+Ansätze mit SkLearning
+### lightgbmAndSpacy.ipynb
+Ansatz mit LightGBM und Spacy
 
 
 ## Imports
