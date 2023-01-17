@@ -22,4 +22,7 @@ Dies muss für die Ausführung installiert werden:
 
 pip install textblob numpy matplotlib
 
-Dies kann per STRG-C kopiert und dann in die Konsole per Rechtsklick oder in eine Python Datei mit STRG-V eingefügt und ausgeführt werden 
+Dies kann per STRG-C kopiert und dann in die Konsole per Rechtsklick oder in eine Python Datei mit STRG-V eingefügt und ausgeführt werden
+
+## Ausführung
+Installieren Sie das Jupyter Notebook auf Ihren PC. Laden Sie den Datensatz herunter (train.csv und test.csv [Hier bin ich mir nicht sicher, ob ich die einfach direkt ins Repro reintun darf, deshalb oben der externe Link]. Alle Dateien in einen Ordner legen. Die Datei kann nun ausgeführt werden.
