@@ -20,7 +20,7 @@ Ansätze mit SkLearning für Evaluation
 ## Imports
 Dies muss für die Ausführung installiert werden:
 
-pip install textblob numpy matplotlib sklearn
+pip install textblob numpy matplotlib sklearn lightgbm spacy
 
 Dies kann per STRG-C kopiert und dann in die Konsole per Rechtsklick oder in eine Python Datei mit STRG-V eingefügt und ausgeführt werden
 
